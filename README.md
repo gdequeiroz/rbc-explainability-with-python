@@ -18,7 +18,7 @@ Topics Covered:
 - Modeling
 - Evaluation
 
-Link to the notebook can be found [here](Demo/Data_Science_Pipeline.ipynb)
+Link to the notebook can be found [here](notebooks/Data_Science_Pipeline.ipynb)
 
 ## Demo 2 - Explainability 
 
@@ -29,4 +29,4 @@ Topics Covered:
 - Importance assigned by the interpretability algorithm to attributes
 - Contrastive Explanations
 
-Link to the notebook can be found [here](Demo/AIX_Demo_Bank_Usecase.ipynb)
+Link to the notebook can be found [here](notebooks/AIX_Demo_Bank_Usecase.ipynb)
