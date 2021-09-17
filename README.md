@@ -2,8 +2,9 @@
 
 ## IBM Cloud Setup
 
+Instructions to set up IBM Cloud account and Watson Studio is provided [here](Watson Studio - Initial setup.pdf)
 
-## Environment
+### Note - Environment
 
 Use Python 3.7 environment in Watson Studio
 
