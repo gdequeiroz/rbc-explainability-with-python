@@ -10,7 +10,7 @@ Use Python 3.7 environment in Watson Studio
 
 ### Notebook Links To Be Used In Watson Studio
 
-1. Data Science Pipelie - https://github.com/gdequeiroz/rbc-explainability-with-python/blob/main/notebooks/Data_Science_Pipeline.ipynb
+1. Data Science Pipeline - https://github.com/gdequeiroz/rbc-explainability-with-python/blob/main/notebooks/Data_Science_Pipeline.ipynb
 2. AIX Bank Use Case - https://github.com/gdequeiroz/rbc-explainability-with-python/blob/main/notebooks/AIX_Demo_Bank_Usecase.ipynb
 
 ## Demo 1 - Data Science Basics
