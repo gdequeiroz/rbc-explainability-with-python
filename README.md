@@ -2,7 +2,7 @@
 
 ## IBM Cloud Setup
 
-Instructions to set up IBM Cloud account and Watson Studio is provided [here](https://github.com/gdequeiroz/rbc-explainability-with-python/blob/main/Watson%20Studio%20-%20Initial%20setup.pdf
+Instructions to set up IBM Cloud account and Watson Studio is provided in `Watson Studio - Initial setup.pdf`
 
 ### Note - Environment
 
