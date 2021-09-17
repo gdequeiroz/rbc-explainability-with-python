@@ -1,6 +1,6 @@
 # Explainability Workflows with Python
 
-## IBM Cloud Setup
+## IBM Cloud and Watson Studio Setup
 
 Instructions to set up IBM Cloud account and Watson Studio is provided in `Watson Studio - Initial setup.pdf`
 
