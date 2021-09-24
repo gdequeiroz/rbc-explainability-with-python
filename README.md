@@ -2,6 +2,10 @@
 
 Short link to this repo: [ibm.biz/rbc-workshop](https://ibm.biz/rbc-workshop)
 
+Slides: [slides.pdf](slides.pdf) 
+
+You can watch the recording [here](https://www.dropbox.com/s/hljigvtwuwp4yv5/recording.mp4?dl=0).
+
 ## Before the Workshop
 
 Please create an account on IBM Cloud and setup Watson Studio.
